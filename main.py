@@ -1,5 +1,6 @@
 import cv2
-  
+
+## TEST
 # Initializing the Histograms of Oriented Gradients person detector
 hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
