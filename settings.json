@@ -1,0 +1,21 @@
+{
+    "init_obj_path": "Template/gizmo.stl",
+    "screen_size": [
+        1280,
+        720
+    ],
+    "obj_alpha": 0.25,
+    "window_title": "Social Distancing Tool",
+    "render_grid": false,
+    "render_empty": false,
+    "render_cylinder": true,
+    "camera_pos": [9.4, -22.5 , 9.5],
+    "camera_pos_1":[30.2, -25.1, 11.9],
+    "camera_pos_2":[18.1, -3.9, 2.1],
+    "camera_fov": 20,
+    "use_gpu": true,
+    "min_distance_m": 2.0,
+    "min_confidence": 0.3,
+    "nms_treshold": 0.3,
+    "debug": false
+}
